@@ -1,0 +1,7 @@
+# Personal Expense Tracker - dependencies
+# No third-party packages are required. Nothing needs to be installed with pip.
+# Requires Python 3.9 or higher.
+#
+# Standard library modules used:
+# sqlite3, hashlib, hmac, os, csv, logging, unittest,
+# datetime, decimal, re, getpass, pathlib, dataclasses, sys
